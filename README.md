@@ -1,6 +1,7 @@
-<p align="center">
-  ![image info](./CoolScrumGames/wwwroot/images/diamond.png)
-</p>
+# CoolScrumGames
+CoolScrumGames Repository for SE2
+
+"Games made by ETSU students, played by ETSU students."
 
 ---
 
