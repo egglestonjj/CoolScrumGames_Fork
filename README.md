@@ -16,8 +16,10 @@ The project can be containerized by hand, but must have the HTTP and HTTPS ports
 It can also be containerized using Visual Studio's Docker Support
 <details>
   <summary markdown="span">Click here to view instructions</summary>
+  
 1. Open the project is Visual Studio
 2. Right click the project
 3. Highlight Add
 4. Select Add Docker Support
+
 </details>
