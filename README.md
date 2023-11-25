@@ -10,7 +10,7 @@ CoolScrumGames Repository for SE2
 
 This project is designed to be run on a persistant instance, preferably a Docker container.
 
-The project can be containerized by hand, but must have the HTTP and HTTPS ports opened.
+The project can be containerized manually, but must have the HTTP and HTTPS ports opened.
 
 [It can also be containerized using Visual Studio's Docker Support](https://learn.microsoft.com/en-us/visualstudio/containers/container-build?view=vs-2022).
 <details>
