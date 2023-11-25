@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./CoolScrumGames/wwwroot/images/diamond.png" width="500">
+  <img src="./CoolScrumGames/wwwroot/images/diamond.png" width="300">
 </p>
 
 # CoolScrumGames
