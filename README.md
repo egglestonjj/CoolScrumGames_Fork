@@ -13,14 +13,9 @@ CoolScrumGames Repository for SE2
 
 This project is designed to be run on a persistant instance, preferably a Docker container.
 The project can be containerized by hand, but must have the HTTP and HTTPS ports opened.
-It can also be containerized using Visual Studio's Docker Support
+[It can also be containerized using Visual Studio's Docker Support] (https://learn.microsoft.com/en-us/visualstudio/containers/container-build?view=vs-2022).
 <details>
-  <summary markdown="span">Creating a Dockerfile</summary>
-  
-1. Open the project in Visual Studio
-2. Right click the project
-4. Highlight Add
-5. Select Docker Support
+  <summary markdown="span">Example Dockerfile</summary>
 
 ```sh
 FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
