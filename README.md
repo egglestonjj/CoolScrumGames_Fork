@@ -17,9 +17,14 @@ It can also be containerized using Visual Studio's Docker Support
 <details>
   <summary markdown="span">Click here to view instructions</summary>
   
-1. Open the project is Visual Studio
+1. Open the project in Visual Studio
 2. Right click the project
-3. Highlight Add
-4. Select Add Docker Support
+
+<p align="left">
+  <img src="./images/screenshots/Capture.png" width="200">
+</p>
+
+4. Highlight Add
+5. Select Add Docker Support
 
 </details>
