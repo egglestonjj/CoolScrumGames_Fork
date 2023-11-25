@@ -1,4 +1,6 @@
-![image info](./CoolScrumGames/wwwroot/images/diamond.png)
+<p align="center">
+  ![image info](./CoolScrumGames/wwwroot/images/diamond.png)
+</p>
 
 ---
 
