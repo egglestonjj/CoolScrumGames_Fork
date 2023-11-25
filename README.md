@@ -1,8 +1,5 @@
 ![image info](./CoolScrumGames/wwwroot/images/diamond.png)
 
-
-Horizontal rule:
-
 ---
 
 ## Docker Support
