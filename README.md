@@ -23,7 +23,7 @@ It can also be containerized using Visual Studio's Docker Support
 5. Select Docker Support
 
 <p align="left">
-  <img src="./images/screenshots/Dockerfile.PNG" width="200">
+  <img src="./images/screenshots/Dockerfile.PNG" width="780">
 </p>
 
 </details>
