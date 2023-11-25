@@ -21,7 +21,7 @@ It can also be containerized using Visual Studio's Docker Support
 2. Right click the project
 
 <p align="left">
-  <img src="./images/screenshots/Capture.png" width="200">
+  <img src="./images/screenshots/Capture.PNG" width="400">
 </p>
 
 4. Highlight Add
