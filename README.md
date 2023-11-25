@@ -1,5 +1,5 @@
 <img src="./CoolScrumGames/wwwroot/images/diamond.png" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="150" height="178">
+     alt="Size Limit logo by Anton Lovchikov" width="200" height="200">
 
 # CoolScrumGames
 CoolScrumGames Repository for SE2
