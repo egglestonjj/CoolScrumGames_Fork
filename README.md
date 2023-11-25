@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./CoolScrumGames/wwwroot/images/diamond.png" width="1020">
+</p>
+
 # CoolScrumGames
 CoolScrumGames Repository for SE2
 
@@ -8,10 +12,8 @@ CoolScrumGames Repository for SE2
 ## Docker Support
 
 This project is designed to be run on a persistant instance, preferably a Docker container.
-
 The project can be containerized by hand, but must have the HTTP and HTTPS ports opened.
-
-It can also be containerized using Visual Studio's Docker Support:
+It can also be containerized using Visual Studio's Docker Support
 
 1. Open the project is Visual Studio
 2. Right click the project
