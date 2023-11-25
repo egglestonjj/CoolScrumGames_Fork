@@ -6,8 +6,6 @@ CoolScrumGames Repository for SE2
 
 "Games made by ETSU students, played by ETSU students."
 
----
-
 ## Docker Support
 
 This project is designed to be run on a persistant instance, preferably a Docker container.
