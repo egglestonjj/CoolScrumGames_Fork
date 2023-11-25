@@ -15,7 +15,7 @@ This project is designed to be run on a persistant instance, preferably a Docker
 The project can be containerized by hand, but must have the HTTP and HTTPS ports opened.
 It can also be containerized using Visual Studio's Docker Support
 <details>
-  <summary markdown="span">Click here to view instructions</summary>
+  <summary markdown="span">Creating a Dockerfile</summary>
   
 1. Open the project in Visual Studio
 2. Right click the project
