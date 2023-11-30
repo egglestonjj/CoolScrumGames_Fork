@@ -10,14 +10,10 @@ CoolScrumGames Repository for SE2
 
 Games can be added into the site using Javascript.
 
-<details>
-  <summary markdown="span">Collapse instructions</summary>
-Create a folder in www/root/js for the game's javascript.
+1. Create a folder in www/root/js for the game's javascript.
+2. Create a corresponding cshtml file for the game page in pages/games.
+3. Add the game's javascript as the onclick href in one of the empty buttons on the index page.
 
-Create a corresponding cshtml file for the game page in pages/games.
-
-Add the game's javascript as the onclick href in one of the empty buttons on the index page.
-</details>
 
 ## Microservice
 
