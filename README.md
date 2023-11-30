@@ -6,6 +6,12 @@ CoolScrumGames Repository for SE2
 
 "Games made by ETSU students, played by ETSU students."
 
+## Description
+
+CoolScrumGames is a web application that allows users to play games directly embedded into the browser. 
+
+The web application features a home page, as well as user authentication. 
+
 ## Adding a game
 
 Games can be added into the site using Javascript.
